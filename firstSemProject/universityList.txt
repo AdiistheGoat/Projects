@@ -1,0 +1,37 @@
+	Massachusetts Institute of Technology (MIT)  ;	United States ;	91	98.2	93.7	97.4	95.6
+	Carnegie Mellon University ; United States ;	100	 82.3	95.3	98.8	90.2
+	Stanford University ; United States	;  88.5	 96.3	99.9	100 	74.8
+	University of California, Berkeley (UCB) ;	United States;	85.4	90	100	 97.7	74.5
+	University of Oxford ;	United Kingdom	;  82.1	 96.7	94.2	92.1	85.6
+	National University of Singapore (NUS) ;	Singapore ; 84.4	92.4	89.7	91.3	88
+	University of Cambridge ;	United Kingdom ;	82.7	96	89.4	86.7	87.7
+	Harvard University	; United States ;	80.2	100 	90.4	88.6	74.8
+	ETH Zurich - Swiss Federal Institute of Technology;	Switzerland	; 82.8	90	 91.7	94	77.4
+	EPFL	; Switzerland ;	85.3	88.3	87.6	85.3	75.8
+	Nanyang Technological University, Singapore (NTU)	; Singapore;	80.1	87.8	87.3	92.8	87
+	University of Toronto	; Canada	; 82.8	84.4	91.5	88.4	73
+	Princeton University	; United States ;	79.8	85.1	93.8	87.2	71.8
+	University of Washington	; United States ;	82	75.5	96.9	89.8	82.9
+	Imperial College London	; United Kingdom	; 77.5	85.6	86.6	87.1	85.3
+	Tsinghua University	; China (Mainland)	; 78.8	83	86.4	99.4	61.8
+	Cornell University	; United States	; 76.3	81.5	97.4	88.6	72.9
+	University of California, Los Angeles (UCLA) ;	United States;	75.8	86.9	86.5	85	60.9
+	Peking University	; China (Mainland) ;	76.7	80.9	85.9	93.5	57.5
+	The University of Edinburgh	; United Kingdom ;	79.9	73.5	88.1	85.7	90.2
+	University of British Columbia	; Canada ;	73.4	83.1	88.9	85.6	75.1
+	University of Waterloo	; Canada ;	76	79	83.4	86.2	87.5
+	Columbia University	; United States ;	74.2	83.1	90.9	85	60.8
+	UCL	; United Kingdom	; 75.4	76	90.5	89.6	80.9
+	University of Illinois at Urbana-Champaign	; United States; 	74	76.7	86	88.4	93.5
+	New York University (NYU)	; United States	; 75.7	77	92.6	86.1	65.8
+	Shanghai Jiao Tong University	; China (Mainland); 	71.4	81.9	80.5	90.1	66
+	Georgia Institute of Technology	; United States; 	69.6	78.6	87.1	91.2	78.1
+	KAIST - Korea Advanced Institute of Science & Technology ; South Korea; 	75.8	79.4	80.1	80.3	66.4
+    Technical University of Munich ; Germany ;	76.5	72.9	81.3	85.4	83.8
+    Institut Polytechnique de Paris ; 	France ;	68	86.9	78	77.9	92.8
+    Seoul National University	; South Korea ;	72.9	82	81.9	80.5	51.5
+    Politecnico di Milano	; Italy ;	70.1	81.4	75.7	78.4	94.3
+    McGill University	; Canada ;	67.3	82.4	86.6	82.3	67.9
+    University of Amsterdam	; Netherlands ;	74.3	73.7	89.8	78.9	64.2
+	California Institute of Technology (Caltech) ; United States ;	67.2	86.4	81.2	78.2	64.7
+	University of Texas at Austin ; United States ;	67.6	78.1	88	87.7	71.9
