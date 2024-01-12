@@ -1,19 +1,3 @@
-///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
-//
-// Title:           Testing cases for H12 Custom App
-// Course:          CS 200 001, Fall 2023
-//
-// Author:          Aditya Goyal
-// Email:           agoyal33@wisc.edu
-// Lecturer's Name: Jim Williams
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-// No help
-// Source or Recipient; Chapter 12 Human Graded Zylabs
-//
-/////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
-
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
