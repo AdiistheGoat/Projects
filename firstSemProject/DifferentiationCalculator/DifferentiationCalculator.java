@@ -1,38 +1,3 @@
-///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
-//
-// Title:           Differentiation Calculator
-// Course:          CS 200, Fall 2023
-//
-// Author:           Aditya Goyal
-// Email:            agoyal33@wisc.edu
-// Lecturer's Name:  Prof Jim Williams
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-//
-// Source or Recipient;
-//https://www.javatpoint.com/how-to-round-double-and-float-up-to-two-decimal-places-in-java
-//
-///////////////////////////////// REFLECTION ///////////////////////////////////
-//
-// 1. Describe the problem you wrote the program to solve: I wrote a program to solve the program
-//    of differentiating terms.
-//
-// 2. Why did you choose arrays vs ArrayLists? In other words, what are the
-//    differences and how did you take those into account? It was much more sensible to use
-//    ArrayLists since my program involved addition and modifying of elements.
-//    ArrayLists have defined methods for addition and removal whereas arrays do not.
-//    I would have to use many more for loops if I had used arrays.
-//
-// 3. How did you decide which test cases to create? I noted down all the extreme test cases like
-//    powers/ coefficients with decimal digits and close to 0. Another extreme test case was whether
-//    the method would process input disregarding its case - lowercase or uppercase.
-//
-// 4. What did you learn from this assignment: I learned a lot about wrapper class methods and got
-//    a lot more practise with it as well. I gained a lot more confidence in using Scanner methods.
-//    I learned to utilise a switch statement in a method all by myself too.
-//
-/////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
-
 import java.util.Scanner;
 import java.util.ArrayList;
 
