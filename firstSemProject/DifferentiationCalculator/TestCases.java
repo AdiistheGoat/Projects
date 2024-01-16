@@ -1,20 +1,3 @@
-///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
-//
-// Title:           Test cases for H10 Custom App
-// Course:          CS 200, Fall 2023
-//
-// Author:          Aditya Goyal
-// Email:           agoyal33@wisc.edu
-// Lecturer's Name: Prof Jim Williams
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-//No citation
-//
-//
-//
-//
-/////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
